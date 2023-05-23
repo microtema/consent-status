@@ -1,0 +1,12 @@
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+    consumer:
+      group-id: consent-status-group
+integration:
+  kafka:
+    consumer:
+      topics: consent-status-topic
+application:
+  scheduler:
+    cron: 0 0/1 * 1/1 * ?
