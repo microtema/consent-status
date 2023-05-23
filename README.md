@@ -2,8 +2,10 @@
 
 ## 1. Introduction and Goals
 
-Enterprises that use event-driven micro services often suffer from a lack of visibility into processes that cross the
-boundary of one individual micro service. It‘s’ hard to understand what happens and why.
+Durch die DSGVO ist Micro Tema verpflichtet Einwilligungserklärungen der Kunden einzuholen, sofern die Kundendaten 
+für bspw. Marketingkampagnen genutzt werden sollen. Diese Einholung erfolgt an verschiedenen Touchpoints – sowohl online in Web + App als auch offline im Retail. 
+Alle Marketingeinwilligungen werden im zentralen System "DocMS" gespeichert und können dort abgerufen werden. 
+DocMS bietet eine Vielzahl an Integrationsmöglichkeiten an.
 
 ### Quality goals
 
